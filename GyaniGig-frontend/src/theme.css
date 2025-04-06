@@ -1,0 +1,28 @@
+:root {
+    --primary-gradient: linear-gradient(90deg, #38B6FF, #004AAD);
+    --primary-color: #38B6FF;
+    --secondary-color: #004AAD;
+    --button-dark: #666D73;
+    --button-light: #FFFFFF;
+    --text-dark: #212121;
+    --text-light: #ffffff;
+    --bg-light: #f5faff;
+  }
+  
+  /* Apply globally */
+  body {
+    margin: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    background: var(--bg-light);
+    color: var(--text-dark);
+  }
+  
+  a {
+    text-decoration: none;
+    color: var(--primary-color);
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Full Stack Web Development",
+      "description": "Learn frontend and backend development using React, Node.js, and MongoDB.",
+      "instructor": "John Doe",
+      "duration": "12 weeks",
+      "completion": 65
+    },
+    {
+      "id": 2,
+      "name": "Machine Learning with Python",
+      "description": "Build predictive models using Scikit-Learn and TensorFlow.",
+      "instructor": "Dr. Sarah Lee",
+      "duration": "8 weeks",
+      "completion": 45
+    },
+    {
+      "id": 3,
+      "name": "Cloud Computing with AWS",
+      "description": "Understand cloud infrastructure and AWS services.",
+      "instructor": "Michael Johnson",
+      "duration": "10 weeks",
+      "completion": 80
+    }
+  
+        ,{   
+        "id": 4,
+        "name": "Data Science and Analytics",
+        "description": "Learn data analysis, visualization, and machine learning.",
+        "instructor": "Dr. Emily Davis",
+        "duration": "14 weeks",
+        "completion": 50
+        },
+        {
+        "id": 5,
+        "name": "Mobile App Development with Flutter",
+        "description": "Create cross-platform mobile applications using Flutter.",
+        "instructor": "Chris Brown",
+        "duration": "6 weeks",
+        "completion": 70
+        }  
+    ]

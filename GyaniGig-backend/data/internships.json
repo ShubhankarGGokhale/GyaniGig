@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Google",
+    "role": "Software Engineering Intern",
+    "courses": ["Cloud Fundamentals", "Android Basics", "AI with TensorFlow"]
+  },
+  {
+    "company": "Microsoft",
+    "role": "Product Management Intern",
+    "courses": ["Azure Essentials", "Agile PM", "Design Thinking"]
+  },
+  {
+    "company": "Amazon",
+    "role": "Web Development Intern",
+    "courses": ["AWS Certified Developer", "JavaScript for Beginners", "React Bootcamp"]
+  },
+  {
+    "company": "Infosys",
+    "role": "Data Analyst Intern",
+    "courses": ["Excel Analytics", "SQL Mastery", "Power BI"]
+  }
+]
